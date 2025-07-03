@@ -1,6 +1,3 @@
-##KeyLogger V1
-
-
 ## KeyLogger V1 is a programm which has 2 options
 1) Simple keylogger which only displays presssed keys
 2) keylogger which stores the pressed keys in specialized .txt
